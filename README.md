@@ -1,4 +1,4 @@
-###  I'm Nandan Kumar 
+### Hii There , I'm Nandan Kumar 👋
 
 - 🔭 I’m previously working on Sapio Analytics as a Data Analyst intern.
 - 🌱 I’m currently learning Deep Learning Stuffs.
