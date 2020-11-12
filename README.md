@@ -1,7 +1,7 @@
 ### Hii There , I'm Nandan Kumar 👋
 
 #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/nandan-kumar-b7342714a/) , [Email](mailto:s1996ch@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/nandan-kumar-b7342714a/) , [Email](mailto:nandankr.43@gmail.com)
   
 
 - 🔭 I’m previously working on Sapio Analytics as a Data Analyst intern.
