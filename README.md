@@ -1,16 +1,14 @@
-### Hi there 👋
+###  I'm Nandan Kumar 
 
-<!--
-**9717/9717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m previously working on Sapio Analytics as a Data Analyst intern.
+- 🌱 I’m currently learning Deep Learning Stuffs.
+- 💬 Ask me about Data Analyst and Tech related Stuffs.
+- 📫 How to reach me:linkedin-[@nandankr.](https://www.linkedin.com/in/nandan-kumar-b7342714a/)
+- 😄 Pronouns: he/his.
 
-Here are some ideas to get you started:
+### Github Stats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=9717&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=138D75)
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9717&display=python&hide=html&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=138D75)](https://github.com/9717/github-stats)
